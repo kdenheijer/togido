@@ -2,30 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fotos-overzicht-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instrumenten-uitproberen-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instrumenten-uitproberen-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instrumenten-uitproberen-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instrumenten-uitproberen-5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instrumenten-uitproberen-6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/muziekfeest-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/muziekfeest-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/muziekfeest-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/muziekfeest-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/muziekfeest-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prins-bernhard-cultuurfonds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voorjaarsconcert-2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/togido_overzicht.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/togido/layout/_partial/aside_menu.ejs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/togido/layout/_partial/concert-list.ejs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/togido/layout/_partial/list-view.ejs" afterDir="false" />
@@ -50,11 +26,11 @@
       <change afterPath="$PROJECT_DIR$/themes/togido/source/img/site.webmanifest" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/togido/source/img/twitter-square-brands.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/togido/source/js/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/togido/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/togido/layout/_partial/after-footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido/layout/_partial/after-footer.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/togido/layout/_partial/article-full.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido/layout/_partial/article-full.ejs" afterDir="false" />
@@ -80,17 +56,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/togido/layout/layout.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-              <folding>
-                <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -119,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/togido/source/css/index.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
+            <state relative-caret-position="810">
               <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
             </state>
           </provider>
@@ -151,12 +137,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/togido" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" />
         <option value="$PROJECT_DIR$/themes/togido/layout/_partial/header.ejs" />
         <option value="$PROJECT_DIR$/themes/togido/layout/_partial/aside_menu.ejs" />
         <option value="$PROJECT_DIR$/themes/togido/layout/_partial/top_menu.ejs" />
@@ -207,6 +192,7 @@
         <option value="$PROJECT_DIR$/source/_posts/instrumenten-uitproberen-bij-open-muziekdag-togido-in-bibliotheek-de-boekenberg.md" />
         <option value="$PROJECT_DIR$/themes/togido/source/css/index.sass" />
         <option value="$PROJECT_DIR$/themes/togido/layout/layout.ejs" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -232,7 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +229,17 @@
               <item name="togido" type="b2602c69:ProjectViewProjectNode" />
               <item name="togido" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="togido" type="b2602c69:ProjectViewProjectNode" />
+              <item name="togido" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="togido" type="b2602c69:ProjectViewProjectNode" />
+              <item name="togido" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="hexo-deployer-sftp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="togido" type="b2602c69:ProjectViewProjectNode" />
@@ -299,9 +295,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;CassandraQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -370,17 +368,19 @@
       <workItem from="1553779128751" duration="5883000" />
       <workItem from="1554110512744" duration="12000" />
       <workItem from="1554530028228" duration="1417000" />
+      <workItem from="1563646664667" duration="1276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40408000" />
+    <option name="totallyTimeSpent" value="41684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389127" />
+      <window_info id="Gulp" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2267525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -427,12 +427,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/togido/source/img/twitter-square-brands.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/togido/source/img/facebook-square-brands.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -771,6 +765,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/togido/layout/layout.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -790,19 +791,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/togido/source/css/index.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
+        <state relative-caret-position="810">
           <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/togido/layout/layout.ejs">
+    <entry file="file://$PROJECT_DIR$/node_modules/hexo-deployer-sftp/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding>
-            <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

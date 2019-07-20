@@ -5,5 +5,9 @@ node_js:
 before_install:
   - npm install -g hexo
 
+install:
+  - npm install
+
 script:
   - hexo generate
+  - hexo deploy --host=$FTP_SERVER --port=22 --user=$FTP_USER --pass=$FTP_PASSWORD --verbose=true
