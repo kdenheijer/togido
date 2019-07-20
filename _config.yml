@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Muziekvereniging TOGIDO Hekelingen
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: Koen den Heijer
+language: NL
 timezone:
 
 # URL
@@ -73,9 +73,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: togido
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+image_caption:
+  enable: true #false to disable
