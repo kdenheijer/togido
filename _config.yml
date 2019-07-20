@@ -78,7 +78,7 @@ theme: togido
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: sftp
 
 node_sass:
   outputStyle: nested
