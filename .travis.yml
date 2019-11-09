@@ -11,4 +11,6 @@ install:
 script:
   - hexo generate
   #- hexo deploy --host=$FTP_SERVER --port=22 --user=$FTP_USER --pass=$FTP_PASSWORD --verbose=true --remotePath=www
+  - apt-get update
+  - apt-get install -y lftp
   - lftp -e "set ftp:ssl-allow no; mirror -R public / ; quit" -u $FTP_USER,$FTP_PASSWORD $FTP_SERVER
