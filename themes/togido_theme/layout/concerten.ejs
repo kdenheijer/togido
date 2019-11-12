@@ -1,0 +1,19 @@
+<% site.categories.sort('name').map(function(category){  %>
+    <% if(category.name == 'concert') { %>
+    <div class="content notification">
+        <h2 class="title is-2">Concerten</h2>
+
+        <% category.posts.sort('-date').map(function(post, i){  %>
+            <% if (post.title && post.title.length) { %>
+                <div class="box">
+                    <h3 class="post-subtitle"><%- post.title %></h3>
+                    <small><%- date(post.date, 'D-M-YYYY') %></small>
+                    <div class="content is-small">
+                        <%- post.content %>
+                    </div>
+                </div>
+            <% } %>
+        <% }) %>
+    </div>
+    <% } %>
+<% }) %>

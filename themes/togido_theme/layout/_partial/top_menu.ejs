@@ -1,0 +1,51 @@
+<nav class="navbar is-hidden-desktop" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="<%- config.root %>">
+            <img src="<%= url_for(theme.logo) %>" height="112">
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+            <a class="navbar-item">Home</a>
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">De vereniging</a>
+
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">Concerten</a>
+                    <a class="navbar-item">Fanfare</a>
+                    <a class="navbar-item">Drumband</a>
+                    <a class="navbar-item">Dweilband</a>
+                </div>
+            </div>
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">Lid worden</a>
+
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">Muzieklessen</a>
+                </div>
+            </div>
+
+            <a class="navbar-item">Foto's</a>
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">Contact</a>
+
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">Privacy verklaring</a>
+                </div>
+            </div>
+
+            <a class="navbar-item">Donateur worden</a>
+
+        </div>
+    </div>
+</nav>

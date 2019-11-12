@@ -1,0 +1,10 @@
+<div class="content notification">
+    <h2 class="title is-1"><%- item.title %></h2>
+    <p><%- item.content %></p>
+</div>
+
+<% if (item.image){ %>
+    <figure class="image">
+        <%- image_tag(item.image) %>
+    </figure>
+<% } %>

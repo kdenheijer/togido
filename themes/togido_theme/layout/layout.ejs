@@ -1,0 +1,54 @@
+<html>
+<%- partial('_partial/head') %>
+<body>
+<%- partial('_partial/menu') %>
+
+<div>
+    <section class="hero has-bg-img">
+        <div class="hero-body hero-header">
+            <div class="columns is-horizontal-center">
+                    <div class="column is-one-fifth is-desktop">
+                        <figure class="image is-128x128 container is-circle" style="padding-top: 0.6rem;">
+                            <a href="/"><img src="<%= url_for(theme.logo) %>"></a>
+                        </figure>
+                    </div>
+                    <div class="column" style="margin-top: 2rem;">
+                        <h1 class="title has-text-white">
+                            Muziekvereniging TOGIDO
+                        </h1>
+                        <h2 class="subtitle has-text-white">
+                            Hekelingen
+                        </h2>
+                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="columns">
+            <div class="column is-one"></div>
+            <div class="column is-8"><%- body %></div>
+            <div class="column is-2">
+                <div class="box">
+                    <h3 class="post-subtitle">Concerten</h3>
+                    <div class="content is-small">
+                        <%- partial('_partial/concert-list') %>
+                    </div>
+                </div>
+                <div class="box">
+                    <h4 class="post-subtitle">Nieuws</h4>
+                    <div class="content is-small">
+                        <%- partial('_partial/nieuws-list') %>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-one">
+            </div>
+        </div>
+    </section>
+</div>
+
+<%- partial('_partial/footer') %>
+
+<%- partial('_partial/after-footer') %>
+</body>
+</html>

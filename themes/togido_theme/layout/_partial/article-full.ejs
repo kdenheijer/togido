@@ -1,0 +1,13 @@
+<div class="content notification">
+    <h2 class="title is-2">
+        <a href="<%- config.root %><%- item.path %>">
+            <%- item.title || item.link%>
+        </a>
+    </h2>
+
+    <small>
+        <%= item.date.format(config.date_format) %>
+    </small>
+
+    <%- item.content %>
+</div>

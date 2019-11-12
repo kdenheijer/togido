@@ -1,0 +1,26 @@
+# Header link with icon font awesome (fa-icon : link)
+# name auto font awesome
+menu:
+  Home: /
+  Vereniging: /vereniging
+  Lid worden: /lid-worden
+  Donateur worden: /donateur-worden
+  Foto's: /foto-album
+  Contact: /contact
+
+
+grid: 2 # change index columns /line
+logo: img/logo_togido_hekelingen.png #logo in header
+author: g3xx #name author in post (default)
+excerpt_link: Lees meer #chnge text in read more in index
+
+## more need change
+disqus_shortname: goyangin # goyangin.disqus.com
+google_analytics:         # UA-83746351-2
+
+# if u want add more profile media social (icon same as Fontawesome)
+#  just add name ex : Instagram: https://www.instagram.com/you/
+social:
+  Twitter: https://twitter.com/togidomusic
+  Facebook: https://facebook.com/togidohekelingen
+  email: info@togidohekelingen.nl

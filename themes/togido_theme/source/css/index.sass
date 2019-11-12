@@ -1,0 +1,58 @@
+@charset "utf-8"
+
+$family-primary: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif
+$footer-background-color: #2a2523
+$title-color: #2F70D8
+$radius: 0
+$section-padding: 1.5rem 1.5rem 3rem 1.5rem
+$box-radius: 0
+
+.navbar-item
+  font-weight: 700
+
+.is-circle-custom
+  display: -ms-flexbox
+  display: flex
+  -ms-flex-direction: column
+  flex-direction: column
+  -ms-flex-pack: center
+  justify-content: center
+  -ms-flex-align: center
+  align-items: center
+  margin: 0 auto
+  width: 13rem
+  height: 13rem
+  padding: 0.5rem
+  border-radius: 50%
+  text-align: center
+
+.is-circle
+  background-color: rgba(255,255,255,0.70)
+  border-radius: 50%
+
+.is-horizontal-center
+  justify-content: center
+
+.has-bg-img
+  background: url('/images/sheet-music-header.jpg')center center
+  background-size: cover
+
+.svg-inline--footer
+  width: 2rem
+  height: 2rem
+
+.image-caption
+  background-color: #F5F5F5
+  width: 100%
+  display: inline-block
+  padding: 0.3rem
+  text-align: center
+
+@import "../../../../node_modules/bulma/bulma"
+
+.is-vertical-center
+  display: flex
+  align-items: center
+
+.hero-header
+  padding-top: 0.5rem
