@@ -15,7 +15,10 @@ install:
 
 script:
   - hexo generate
-  #- hexo deploy --host=$FTP_SERVER --port=22 --user=$FTP_USER --pass=$FTP_PASSWORD --verbose=true --remotePath=www
+#- hexo deploy --host=$FTP_SERVER --port=22 --user=$FTP_USER --pass=$FTP_PASSWORD --verbose=true --remotePath=www
 #   - apt-get update
 #   - apt-get install -y lftp
-  - lftp -e "set dns:order "inet"; set ftp:ssl-allow no; mirror -R public www ; quit" -u $FTP_USER,$FTP_PASSWORD $FTP_SERVER
+#  - lftp -e "set dns:order "inet"; set ftp:ssl-allow no; mirror -R public www ; quit" -u $FTP_USER,$FTP_PASSWORD $FTP_SERVER
+
+after_success:
+  gulp deploy --user $FTP_USER --password $FTP_PASSWORD --server $FTP_SERVER
