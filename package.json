@@ -15,7 +15,7 @@
     "hexo-generator-tag": "^0.2.0",
     "hexo-image-caption": "^0.1.1",
     "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-marked": "^0.3.2",
+    "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1"
@@ -23,8 +23,7 @@
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-imagemin": "^5.0.3",
-    "gulp-util": "^3.0.8",
-    "minimist": "^1.2.0",
-    "vinyl-ftp": "^0.6.1"
+    "gulp-sftp-up4": "^0.1.8",
+    "minimist": "^1.2.0"
   }
 }

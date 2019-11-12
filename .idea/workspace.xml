@@ -19,29 +19,6 @@
       <executable />
     </execution>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>theme</find>
-      <find>highlight</find>
-      <find>is-dark</find>
-      <find>font-family</find>
-      <find>$family-primary</find>
-      <find>BlinkMacSystemFont</find>
-      <find>put some</find>
-      <find>bestaat sinds 1912</find>
-      <find>Togido</find>
-      <find>footer-background-color</find>
-      <find>nieuws</find>
-      <find>het voor</find>
-      <find>Recents Post</find>
-      <find>http</find>
-      <find>togido_overzicht</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/node_modules/bulma</dir>
-      <dir>$PROJECT_DIR$/source</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -131,7 +108,7 @@
       <workItem from="1554110512744" duration="12000" />
       <workItem from="1554530028228" duration="1417000" />
       <workItem from="1563646664667" duration="2240000" />
-      <workItem from="1573558754212" duration="1482000" />
+      <workItem from="1573558754212" duration="2917000" />
     </task>
     <servers />
   </component>

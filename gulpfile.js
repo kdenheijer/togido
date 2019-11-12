@@ -1,7 +1,6 @@
 const gulp = require('gulp');
 const imagemin = require('gulp-imagemin');
-const ftp = require('vinyl-ftp');
-const gutil = require('gulp-util');
+const sftp = require('gulp-sftp-up4');
 const minimist = require('minimist');
 const args = minimist(process.argv.slice(2));
 
@@ -12,15 +11,14 @@ gulp.task('default', () =>
 );
 
 gulp.task('deploy', function () {
-    var remotePath = '/www/';
-    var conn = ftp.create({
+    const conn = sftp({
         host: args.server,
         user: args.user,
-        password: args.password,
-        log: gutil.log
+        pass: args.password,
+        port: args.port,
+        remotePath: '/www/',
     });
 
-    gulp.src(['./public/*'])
-        .pipe(conn.newer(remotePath))
-        .pipe(conn.dest(remotePath));
+    return gulp.src(['public/*', 'public/**/*'] )
+        .pipe(conn);
 });
