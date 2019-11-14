@@ -7,7 +7,7 @@ categories:
 
 **Voorspeelmiddag**
 
-Als afsluiter van 2019 krijgt iedereen de mogelijkheid om zijn/haar talenten te laten zien aan de andere leden!
+Als afsluiter van 2019 krijgt iedereen de mogelijkheid om zijn/haar talenten te laten zien aan de andere leden! Inloop vanaf 14:00 en start om 14:30.
 
 Wil je hieraan meedoen (spelen), bv. solo, als duo of in andere (groeps)samenstelling, geef je dan op bij [Marion Switser](mailto:info@togidohekelingen.nl).
 
