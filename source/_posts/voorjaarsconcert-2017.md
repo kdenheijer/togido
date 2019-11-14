@@ -2,7 +2,6 @@
 title: Voorjaarsconcert 2017
 categories:
   - nieuws
-  - concert
 date: 2017-03-26 08:25:04
 ---
 

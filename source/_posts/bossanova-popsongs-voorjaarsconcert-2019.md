@@ -3,7 +3,6 @@ title: Bossanova, popsongs en Amor bij Voorjaarsconcert TOGIDO
 date: 2019-03-16 20:44:38
 categories:
   - nieuws
-  - concert
 ---
 
 **Van Stevie Wonder en Michal Bublé popsongs, een muzikaal bezoek aan ‘The Lion King’ en aanschuiven ‘Around the Whiskey Jar’ in Schotland, tot aan een ode aan de liefde in het wonderschone ‘En Aranjuez Con Tu Amor’. Dat alles en nog veel meer kunt u op zaterdagavond 30 maart aanstaande beluisteren tijdens het Voorjaarsconcert van muziekvereniging TOGIDO.**

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/kerstavond-2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/sinterklaas-optredens-2019.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2020.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/bossanova-popsongs-voorjaarsconcert-2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/bossanova-popsongs-voorjaarsconcert-2019.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/muzikale-rondreis-met-vorjaarsconcert-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/muzikale-rondreis-met-vorjaarsconcert-2018.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;CassandraQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -53,18 +59,19 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/themes/togido/layout/_partial" />
+      <recent name="$PROJECT_DIR$/themes/togido/layout" />
+      <recent name="$PROJECT_DIR$/themes/togido/source/img" />
+      <recent name="$PROJECT_DIR$/themes/togido/source/css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/source/images" />
       <recent name="$PROJECT_DIR$/source/_posts" />
       <recent name="$PROJECT_DIR$/themes/togido/source/img" />
       <recent name="$PROJECT_DIR$/source" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/togido/layout/_partial" />
-      <recent name="$PROJECT_DIR$/themes/togido/layout" />
-      <recent name="$PROJECT_DIR$/themes/togido/source/img" />
-      <recent name="$PROJECT_DIR$/themes/togido/source/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -105,7 +112,8 @@
       <workItem from="1554110512744" duration="12000" />
       <workItem from="1554530028228" duration="1417000" />
       <workItem from="1563646664667" duration="2240000" />
-      <workItem from="1573558754212" duration="3416000" />
+      <workItem from="1573558754212" duration="3865000" />
+      <workItem from="1573760723432" duration="1488000" />
     </task>
     <servers />
   </component>
@@ -117,7 +125,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

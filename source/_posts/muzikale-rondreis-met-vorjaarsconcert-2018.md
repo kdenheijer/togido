@@ -3,7 +3,6 @@ title: Muzikale rondreis met Voorjaarsconcert TOGIDO
 date: 2018-03-16 20:49:04
 categories:
   - nieuws
-  - concert
 ---
 Aanstaande zaterdagavond 7 april, speelt muziekvereniging TOGIDO haar Voorjaarsconcert in het Dorpshuis in Hekelingen.
 
