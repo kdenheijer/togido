@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/blokfluitlessen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/buiten-concert-2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/proefles-2020.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/blokfluitles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/buitenconcert-2020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/proefles.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/voorspeelmiddag-2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/voorspeelmiddag-2019.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +34,10 @@
   </component>
   <component name="ProjectId" id="1TVwpKsDYeRe20v6zIfktoj4Y1i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -53,6 +59,13 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/themes/togido/source/img" />
+      <recent name="$PROJECT_DIR$/source" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/_posts" />
       <recent name="$PROJECT_DIR$/themes/togido/layout/_partial" />
@@ -60,26 +73,8 @@
       <recent name="$PROJECT_DIR$/themes/togido/source/img" />
       <recent name="$PROJECT_DIR$/themes/togido/source/css" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/source/images" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
-      <recent name="$PROJECT_DIR$/themes/togido/source/img" />
-      <recent name="$PROJECT_DIR$/source" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,24 +103,31 @@
       <workItem from="1563646664667" duration="2240000" />
       <workItem from="1573558754212" duration="3865000" />
       <workItem from="1573760723432" duration="1850000" />
-      <workItem from="1573763346983" duration="50000" />
+      <workItem from="1573763346983" duration="357000" />
+      <workItem from="1599303967970" duration="1255000" />
+      <workItem from="1599305280063" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="291" width="598" height="490" key="find.popup" timestamp="1599305089196">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="541" y="291" width="598" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1599305089196" />
   </component>
 </project>
