@@ -17,7 +17,5 @@ Meeldijk 9
 Tel: 0181-659662 / 06-43944013
 E-mail: [secretariaat@togidohekelingen.nl](email:secretariaat@togidohekelingen.nl) 
 
-**Annelies Meijboom – voorzitter**
-Gemeenlandsedijk-zuid 37
-3216AH Abbenbroek
+**Edwin Prins – voorzitter**
 E-mail: [voorzitter@togidohekelingen.nl](email:voorzitter@togidohekelingen.nl)

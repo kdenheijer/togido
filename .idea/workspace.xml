@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/open-dag-2021.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/proefles-2021.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/open-dag-2021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/proefles-2021.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/contact/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/contact/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/de-vereniging/fanfare/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/de-vereniging/fanfare/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,9 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1TVwpKsDYeRe20v6zIfktoj4Y1i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,7 +109,8 @@
       <workItem from="1573763346983" duration="357000" />
       <workItem from="1599303967970" duration="1255000" />
       <workItem from="1599305280063" duration="151000" />
-      <workItem from="1631641752479" duration="1272000" />
+      <workItem from="1631641752479" duration="2032000" />
+      <workItem from="1645450306427" duration="139000" />
     </task>
     <servers />
   </component>
@@ -125,6 +127,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
