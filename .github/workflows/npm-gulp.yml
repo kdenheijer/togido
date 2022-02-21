@@ -24,8 +24,5 @@ jobs:
 
     - name: Build
       run: |
-#        npm install -g hexo
         npm install
         gulp
-#        hexo generate
-#        gulp deploy --user $FTP_USER --password $FTP_PASSWORD --server $FTP_SERVER
