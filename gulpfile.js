@@ -1,7 +1,8 @@
-const gulp = require('gulp');
-const imagemin = require('gulp-imagemin');
-const sftp = require('gulp-sftp-up4');
-const minimist = require('minimist');
+import gulp from 'gulp'
+import imagemin from 'gulp-imagemin'
+import sftp from 'gulp-sftp-up4'
+import minimist from 'minimist'
+
 const args = minimist(process.argv.slice(2));
 
 gulp.task('default', () =>
