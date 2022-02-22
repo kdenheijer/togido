@@ -24,5 +24,6 @@
     "gulp-imagemin": "^8.0.0",
     "gulp-sftp-up4": "^0.1.8",
     "minimist": "^1.2.5"
-  }
+  },
+  "type": "module"
 }
