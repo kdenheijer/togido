@@ -2,7 +2,7 @@
 title: Voorjaarsconcert 23 april 2022
 categories:
   - concert
-date: 2020-04-23 19:30:00
+date: 2022-04-23 19:30:00
 ---
 
 Aanstaande zaterdag 23 april heten wij u graag hartelijk welkom bij het Voorjaarsconcert van muziekvereniging TOGIDO. Wij zijn heel blij u, na een lange periode waarin dit niet mogelijk was, weer te kunnen en mogen ontvangen bij ons jaarconcert. 
