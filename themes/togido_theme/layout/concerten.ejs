@@ -3,7 +3,7 @@
     <div class="content notification">
         <h2 class="title is-2">Concerten</h2>
 
-        <% category.posts.sort('-date').reverse().map(function(post, i){  %>
+        <% category.posts.sort('-date').map(function(post, i){  %>
             <% if (post.title && post.title.length) { %>
                 <div class="box">
                     <h3 class="post-subtitle"><%- post.title %></h3>
