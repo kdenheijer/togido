@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/avondvierdaagse-zuidland-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/dodenherdenking-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/festival-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/festival-inschrijving-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/koningsdag-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/proefles-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/festival/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/flyer-festival-10-6-2023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/inschrijfformulier-festival.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/proefles-2023.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/concerten.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/concerten.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/de-vereniging/drumband/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/de-vereniging/drumband/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/menu.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/menu.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/nieuws-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/nieuws-list.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +40,6 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,36 +49,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;CassandraQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.jscs" value="true" />
-    <property name="node.js.detected.package.standard" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.jscs" value="project" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="" />
-    <property name="node.js.selected.package.jscs" value="" />
-    <property name="node.js.selected.package.standard" value="" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/k.denheijer/Dev/private/togido/source/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/source/festival" />
       <recent name="$PROJECT_DIR$/themes/togido/layout/_partial" />
       <recent name="$PROJECT_DIR$/themes/togido/layout" />
       <recent name="$PROJECT_DIR$/themes/togido/source/img" />
-      <recent name="$PROJECT_DIR$/themes/togido/source/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/images" />
@@ -111,7 +112,11 @@
       <workItem from="1645450306427" duration="723000" />
       <workItem from="1645454269124" duration="4106000" />
       <workItem from="1650368727523" duration="2605000" />
-      <workItem from="1650569539128" duration="60000" />
+      <workItem from="1650569539128" duration="597000" />
+      <workItem from="1650890992086" duration="24000" />
+      <workItem from="1676447417898" duration="2252000" />
+      <workItem from="1676465209286" duration="600000" />
+      <workItem from="1676470558266" duration="1163000" />
     </task>
     <servers />
   </component>
