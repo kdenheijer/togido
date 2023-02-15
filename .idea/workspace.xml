@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/avondvierdaagse-zuidland-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/dodenherdenking-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/festival-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/festival-inschrijving-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/koningsdag-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/proefles-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2023.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/festival/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/flyer-festival-10-6-2023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/inschrijfformulier-festival.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/proefles-2023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/de-vereniging/drumband/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/de-vereniging/drumband/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/menu.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/menu.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/nieuws-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/nieuws-list.ejs" afterDir="false" />
-    </list>
+    <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +97,7 @@
       <workItem from="1650890992086" duration="24000" />
       <workItem from="1676447417898" duration="2252000" />
       <workItem from="1676465209286" duration="600000" />
-      <workItem from="1676470558266" duration="1163000" />
+      <workItem from="1676470558266" duration="1439000" />
     </task>
     <servers />
   </component>
