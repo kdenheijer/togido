@@ -13,4 +13,4 @@ Daarnaast is er een verloting waarbij vele schitterende prijzen te winnen zijn.
 
 De trekking is direct na afloop van het muzikale programma.
 
-Wij hopen u te mogen begroeten bij ons concert!
+![Wij hopen u te mogen begroeten bij ons concert!](/images/voorjaarsconcert-2023.jpeg)
