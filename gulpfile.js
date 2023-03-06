@@ -17,7 +17,7 @@ gulp.task('deploy', function () {
         user: args.user,
         pass: args.password,
         port: args.port,
-        remotePath: '/www/',
+        remotePath: '/site/www/',
     });
 
     return gulp.src(['public/*', 'public/**/*'] )
