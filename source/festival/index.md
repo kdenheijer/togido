@@ -9,7 +9,7 @@ Harmonie- en Fanfare orkesten, Brassbands, Jeugdorkesten en Slagwerkgroepen.
 - Tijd: 16.00-22.00 uur.
 - Er is een middag én avondprogramma.
 - Speeltijd per deelnemende eenheid bedraagt 25 minuten (incl. op en af).
-- Vrije programma invulling keuze; er zijn géén verplichtte werken.
+- Vrije programma invulling keuze; er zijn géén verplichte werken.
 - Beoordeling door deskundige jury; juryrapport (géén punten).
 - Gelegenheid tot afstemmen/inspelen in aparte inspeelruimte.
 - Per vereniging kunnen meerdere groepen worden ingeschreven.

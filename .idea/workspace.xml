@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <workItem from="1676447417898" duration="2252000" />
       <workItem from="1676465209286" duration="600000" />
       <workItem from="1676470558266" duration="1649000" />
-      <workItem from="1678105801468" duration="2588000" />
+      <workItem from="1678105801468" duration="3187000" />
     </task>
     <servers />
   </component>
