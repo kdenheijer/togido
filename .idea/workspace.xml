@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/foto-album/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/foto-album/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/concerten.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/concerten.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,7 @@
       <workItem from="1676470558266" duration="1649000" />
       <workItem from="1678105801468" duration="3809000" />
       <workItem from="1688478588764" duration="487000" />
-      <workItem from="1694096516061" duration="2915000" />
+      <workItem from="1694096516061" duration="3179000" />
     </task>
     <servers />
   </component>
