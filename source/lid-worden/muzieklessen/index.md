@@ -12,9 +12,11 @@ De (individuele) lessen op blaasinstrumenten zoals trompet, bugel, trombone, hoo
 **Saxofoons**: Roeland Kapaan
 De (individuele) lessen op (sopraan, alt, tenor, bariton) saxofoon, worden gegeven op dinsdagavond in het Dorpshuis Hekelingen. Kosten voor de lessen bedragen € 25,00 per les van 30 minuten. Ook duo-lessen of om de andere week lessen is mogelijk.
 
-**Drumlessen/ ongestemd slagwerk**: Melvin Roestenburg
+**Drumlessen/ ongestemd slagwerk**: Melvin Roestenburg (Hekelingen) & Henk Stolk (Oudenhoorn)
 
-De (individuele) slagwerklessen (ongestemd) worden gegeven op dinsdagavond in het Dorpshuis in Hekelingen. De kosten voor de lessen bedragen € 12,50 euro per les, een les duurt 30 minuten. Ook duo-lessen zijn mogelijk.
+Hekelingen: De (individuele) slagwerklessen (ongestemd) worden gegeven op dinsdagavond in het Dorpshuis in Hekelingen. De kosten voor de lessen bedragen € 10,00 euro per les, een les duurt 30 minuten. Ook duo-lessen zijn mogelijk.
+
+Oudenhoorn: De drumbandlessen zijn op maandagavond in de Nieuwe Meent in Oudenhoorn. Kosten: € 40,- per maand; een les duurt 20 minuten.
 
 **Instrument, lesmateriaal en contributie**:
 Om muziekles te kunnen volgen bij onze muziekvereniging, wordt je lid van TOGIDO. De leerling contributie bedraagt € 50,00 per jaar. Hiervoor krijgt de leerling een blaasinstrument (indien beschikbaar) in bruikleen. Lesboek, muzieklessenaar, trommelstokken en een oefenbat moeten op eigen kosten worden aangeschaft.

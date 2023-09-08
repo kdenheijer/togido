@@ -2,7 +2,7 @@
 title: Orkest
 ---
 
-Het fanfareorkest van TOGIDO onder leiding van **Julian van der Linden** bestaat uit zo’n 35 jonge tot iets minder jonge amateur muzikanten, die veelal afkomstig zijn uit Nissewaard. De fanfare speelt allerlei soorten muziek die uiteenloopt van concertstukken, musical- en filmmuziek en ballads tot marsen en lichte populaire muziek.
+Het fanfareorkest van TOGIDO onder leiding van **Harrie Bosch** bestaat uit zo’n 35 jonge tot iets minder jonge amateur muzikanten, die veelal afkomstig zijn uit Nissewaard. De fanfare speelt allerlei soorten muziek die uiteenloopt van concertstukken, musical- en filmmuziek en ballads tot marsen en lichte populaire muziek.
 
 In het orkest worden de volgende instrumenten bespeeld: bugels, trompetten, cornetten, hoorns, saxofoons, trombones, tuba’s, bastuba’s, slagwerk en dwarsfluiten. Er worden regelmatig concerten gegeven en ook marcherende optredens behoren tot de muzikale activiteiten van het orkest van TOGIDO.
 

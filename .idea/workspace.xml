@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/avondvierdaagse-zuidland-2024.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/dodenherdenking-2024.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/koningsdag-2024.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/meezingconcert-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/muzieklessen-zuidland.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/paardenmarkt-2024.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/roparun-2024.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/sinterklaas-2023.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2024.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/flyer-muziekles-zuidland-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/flyer-muziekles-zuidland-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/foto-overzicht-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/foto-overzicht-11.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/festival/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/contact/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/contact/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/de-vereniging/fanfare/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/de-vereniging/fanfare/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/de-vereniging/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/de-vereniging/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/foto-album/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/foto-album/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/lid-worden/muzieklessen/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/lid-worden/muzieklessen/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/menu.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/menu.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +46,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="1TVwpKsDYeRe20v6zIfktoj4Y1i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,6 +68,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -110,7 +130,8 @@
       <workItem from="1676465209286" duration="600000" />
       <workItem from="1676470558266" duration="1649000" />
       <workItem from="1678105801468" duration="3809000" />
-      <workItem from="1688478588764" duration="242000" />
+      <workItem from="1688478588764" duration="487000" />
+      <workItem from="1694096516061" duration="1577000" />
     </task>
     <servers />
   </component>
