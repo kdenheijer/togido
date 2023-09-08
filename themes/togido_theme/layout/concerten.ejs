@@ -4,10 +4,10 @@
         <h2 class="title is-2">Concerten</h2>
 
         <% category.posts.sort('-date').reverse().map(function(post, i){  %>
-            <% if (post.title && post.title.length) { %>
+            <% if (post.title && post.title.length && post.date > now) { %>
                 <div class="box">
                     <h3 class="post-subtitle"><%- post.title %></h3>
-                    <small><%- date(post.date, 'D-M-YYYY') %></small>
+                    <small><%- date(post.date, 'D-M-YYYY') %> --</small>
                     <div class="content is-small">
                         <%- post.content %>
                     </div>
