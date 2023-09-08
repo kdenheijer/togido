@@ -1,11 +1,11 @@
 <% site.categories.sort('name').map(function(category){  %>
     <% if(category.name == 'concert') { %>
         <div class="list is-hoverable">
-        <% category.posts.sort('-date').limit(10).reverse().map(function(post, i){  %>
-            <% if (post.title && post.title.length) { %>
+        <% category.posts.sort('-date').reverse().map(function(post, i){  %>
+            <% if (post.title && post.title.length && post.date > Date.now()) { %>
                     <a class="list-item" href="<%- config.root %><%- post.path %>">
                         <%- post.title %>
-                        <small style="color: grey"><%- date(post.date, 'D-M-YYYY') %> -</small>
+                        <small style="color: grey"><%- date(post.date, 'D-M-YYYY') %></small>
                     </a><br />
             <% } %>
         <% }) %>

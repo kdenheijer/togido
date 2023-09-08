@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/_partial/concert-list.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/togido_theme/layout/concerten.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/togido_theme/layout/concerten.ejs" afterDir="false" />
     </list>
@@ -114,7 +116,7 @@
       <workItem from="1676470558266" duration="1649000" />
       <workItem from="1678105801468" duration="3809000" />
       <workItem from="1688478588764" duration="487000" />
-      <workItem from="1694096516061" duration="4076000" />
+      <workItem from="1694096516061" duration="5131000" />
     </task>
     <servers />
   </component>
