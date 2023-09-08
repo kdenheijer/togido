@@ -5,11 +5,11 @@ date: 2019-03-14 21:09:50
 
 <div class="columns">
 <div class="column">
-<img src="/images/fotos-overzicht-10.jpg" />
+<img src="/images/foto-overzicht-10.jpg" />
 </div>
 
 <div class="column">
-<img src="/images/fotos-overzicht-11.jpg" />
+<img src="/images/foto-overzicht-11.jpeg" />
 </div>
 </div>
 
