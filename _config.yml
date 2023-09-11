@@ -81,7 +81,7 @@ deploy:
   type: sftp
 
 node_sass:
-  outputStyle: nested
+  outputStyle: expanded
   precision: 5
   sourceComments: false
 
