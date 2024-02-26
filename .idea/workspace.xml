@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/images/voorjaarsconcert-2024.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2024.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2024.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/de-vereniging/fanfare/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/de-vereniging/fanfare/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
     &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/k.denheijer/Dev/private/togido&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -71,6 +75,13 @@
       <recent name="$PROJECT_DIR$/themes/togido/source/img" />
       <recent name="$PROJECT_DIR$/source" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14015.96" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -118,6 +129,9 @@
       <workItem from="1694096516061" duration="7297000" />
       <workItem from="1698662734213" duration="1258000" />
       <workItem from="1698670033790" duration="2363000" />
+      <workItem from="1703162089917" duration="194000" />
+      <workItem from="1703234022460" duration="597000" />
+      <workItem from="1708949470072" duration="976000" />
     </task>
     <servers />
   </component>
