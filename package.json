@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "7.0.0-rc2"
+    "version": "7.1.1"
   },
   "dependencies": {
     "bulma": "^0.9.3",
@@ -16,6 +16,7 @@
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.1.1",
     "hexo-renderer-stylus": "^3.0.0",
+    "hexo-renderer-sass": "^0.5.0",
     "hexo-server": "^3.0.0"
   },
   "devDependencies": {
