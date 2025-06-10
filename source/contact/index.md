@@ -24,5 +24,5 @@ Meeldijk 9
 Tel: 0181-659662 / 06-43944013
 E-mail: [secretariaat@togidohekelingen.nl](email:secretariaat@togidohekelingen.nl) 
 
-**Edwin Prins – voorzitter**
+**Nico Sas – voorzitter**
 E-mail: [voorzitter@togidohekelingen.nl](email:voorzitter@togidohekelingen.nl)
