@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/zomeravond-concert-2025.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/zomeravond-concert-2025.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/zomeravond-concert-2025.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/zomeravond-concert-2025.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,7 @@
       <workItem from="1703234022460" duration="597000" />
       <workItem from="1708949470072" duration="3273000" />
       <workItem from="1741203336967" duration="1421000" />
-      <workItem from="1752224350920" duration="333000" />
+      <workItem from="1752224350920" duration="969000" />
     </task>
     <servers />
   </component>

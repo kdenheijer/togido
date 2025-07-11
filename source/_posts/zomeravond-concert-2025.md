@@ -2,7 +2,7 @@
 title: Zomeravond Concert 2025
 categories:
   - concert
-date: 2025-06-15 20:00:00
+date: 2025-15-06 20:00:00
 ---
 
 🎶🌅 Zomeravond Concert 🌅🎶
