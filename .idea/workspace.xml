@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/voorjaarsconcert-2026.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/voorjaarsconcert-2026.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/lid-worden/muzieklessen/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/lid-worden/muzieklessen/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="180" />
+    <option name="cachedIndexableFilesCount" value="183" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -50,30 +49,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/k.denheijer/Dev/private/togido/source/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/k.denheijer/Dev/private/togido/source/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1773835252807" />
+    <option name="spentUsd" value="0.0090327505" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="8" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/_posts" />
@@ -149,7 +155,8 @@
       <workItem from="1708949470072" duration="3273000" />
       <workItem from="1741203336967" duration="1421000" />
       <workItem from="1752224350920" duration="3403000" />
-      <workItem from="1771517709166" duration="203000" />
+      <workItem from="1771517709166" duration="1454000" />
+      <workItem from="1771574648655" duration="86000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ Om nieuwe leden te werven en kinderen en volwassenen bekend te maken met het mak
 
 Bij muziekvereniging TOGIDO worden muzieklessen gegeven voor (ongestemd) slagwerk en blaasinstrumenten. Onze enthousiaste docenten zijn:
 
-**Blaasinstrumenten**: Mary van Vliet
+**Blaasinstrumenten**: Diogo Sousa
 De (individuele) lessen op blaasinstrumenten zoals trompet, bugel, trombone, hoorn en tuba, worden gegeven op dinsdagavond in het Dorpshuis Hekelingen. De kosten voor de lessen bedragen € 15,00 per les van 30 minuten. Ook duo-lessen zijn mogelijk.
 
 **Saxofoons**: Roeland Kapaan
