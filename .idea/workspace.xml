@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a2d6d0-6087-4eec-896f-7090a34149fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/zomeravond-concert-2025.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/zomeravond-concert-2025.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,10 +74,10 @@
 }</component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1773835252807" />
-    <option name="spentUsd" value="0.0090327505" />
+    <option name="spentUsd" value="0.01750225" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="8" />
+    <option name="suspendCountdown" value="7" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -157,7 +156,7 @@
       <workItem from="1752224350920" duration="3403000" />
       <workItem from="1771517709166" duration="1454000" />
       <workItem from="1771574648655" duration="382000" />
-      <workItem from="1772118064757" duration="117000" />
+      <workItem from="1772118064757" duration="723000" />
     </task>
     <servers />
   </component>
