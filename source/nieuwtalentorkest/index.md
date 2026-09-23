@@ -63,6 +63,27 @@ Al duizenden volwassenen ontdekten via het Nieuw Talent Orkest hoe leuk het is o
 
 Woon je in of in de omgeving van de gemeente Nissewaard en lijkt het je leuk om een instrument te leren bespelen, nieuwe mensen te ontmoeten en samen muziek te maken? Meld je dan aan voor Nieuw Talent Orkest Nissewaard!
 
+<form id="aanmelden" action="/nieuwtalentorkest/aanmelden.php" method="post">
+  <div class="field"><label class="label" for="naam">Naam</label><div class="control"><input class="input" id="naam" name="naam" type="text" autocomplete="name" required></div></div>
+  <div class="field"><label class="label" for="adres">Adres</label><div class="control"><input class="input" id="adres" name="adres" type="text" autocomplete="street-address" placeholder="Straat, huisnummer, postcode, plaats" required></div></div>
+  <div class="field"><label class="label" for="telefoon">Telefoon</label><div class="control"><input class="input" id="telefoon" name="telefoon" type="tel" autocomplete="tel" required></div></div>
+  <div class="field"><label class="label" for="email">E-mail</label><div class="control"><input class="input" id="email" name="email" type="email" autocomplete="email" required></div></div>
+  <div class="field"><label class="label" for="instrument">Voorkeur instrument</label><div class="control"><div class="select"><select id="instrument" name="instrument" required>
+    <option value="" disabled selected>Maak een keuze</option>
+    <option value="trompet">Trompet</option>
+    <option value="trombone">Trombone</option>
+    <option value="bugel">Bugel</option>
+    <option value="bas">Bas</option>
+    <option value="saxofoon">Saxofoon</option>
+    <option value="slagwerk">Slagwerk</option>
+    <option value="anders">Anders</option>
+    <option value="weet ik nog niet">Weet ik nog niet</option>
+    <option value="geen voorkeur">Geen voorkeur</option>
+  </select></div></div></div>
+  <div style="position:absolute;left:-9999px" aria-hidden="true"><input name="website" type="text" tabindex="-1" autocomplete="off"></div>
+  <div class="field"><div class="control"><button class="button is-link" type="submit">Aanmelden</button></div></div>
+</form>
+
 Wil je meer informatie of je aanmelden voor één van de informatieavonden? Neem dan contact op met:
 
 **Anita Tempelman**
