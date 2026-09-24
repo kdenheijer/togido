@@ -74,6 +74,32 @@ verwerking(en) voor de periode:
 
 * Gedurende de periode dat men aangemeld is.
 
+**Verwerking van persoonsgegevens van deelnemers Nieuw Talent Orkest**
+
+Persoonsgegevens die u via het aanmeldformulier van het Nieuw Talent Orkest invult, worden door de muziekvereniging TOGIDO Hekelingen verwerkt ten behoeve van de volgende doelstelling(en):
+
+* Deelnemersadministratie van het project
+* Inning van de deelnemersbijdrage
+* Uitgifte van een (leen)instrument
+* Informatieverstrekking over repetities en het slotconcert
+
+Grondslag voor deze persoonsgegevens is:
+* Deelname aan het Nieuw Talent Orkest
+
+Voor de bovenstaande doelstelling(en) vraagt de muziekvereniging TOGIDO Hekelingen de volgende persoonsgegevens van u:
+
+* Naam
+* Adres
+* Telefoonnummer
+* E-mailadres
+* Voorkeur instrument
+
+Het aanmeldformulier wordt per e-mail naar de vereniging verstuurd. De gegevens worden niet op de website opgeslagen.
+
+Uw persoonsgegevens worden door de muziekvereniging TOGIDO Hekelingen opgeslagen ten behoeve van bovengenoemde verwerking(en) voor de periode:
+
+* Gedurende het project en daarna alleen in de financiële administratie voor maximaal 7 jaar. Wordt u na het project lid, dan geldt de bewaartermijn voor verenigingsleden.
+
 **Website togidohekelingen.nl**
 Wij respecteren je privacy als je onze website bezoekt en dragen zorg dat de persoonlijke informatie die je ons via
 de website verstrekt vertrouwelijk wordt behandeld. Dit gebeurt volledig in overeenstemming met de eisen van de

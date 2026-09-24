@@ -81,6 +81,7 @@ Woon je in of in de omgeving van de gemeente Nissewaard en lijkt het je leuk om 
     <option value="geen voorkeur">Geen voorkeur</option>
   </select></div></div></div>
   <div style="position:absolute;left:-9999px" aria-hidden="true"><input name="website" type="text" tabindex="-1" autocomplete="off"></div>
+  <p class="help">Lees in onze <a href="/contact/privacy-verklaring/">privacyverklaring</a> hoe we met je gegevens omgaan.</p>
   <div class="field"><div class="control"><button class="button is-link" type="submit">Aanmelden</button></div></div>
 </form>
 
