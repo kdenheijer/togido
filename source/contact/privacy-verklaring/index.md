@@ -100,6 +100,17 @@ Uw persoonsgegevens worden door de muziekvereniging TOGIDO Hekelingen opgeslagen
 
 * Gedurende het project en daarna alleen in de financiële administratie voor maximaal 7 jaar. Wordt u na het project lid, dan geldt de bewaartermijn voor verenigingsleden.
 
+**Verwerking van persoonsgegevens voor updates over het Nieuw Talent Orkest**
+
+Laat u via de website uw e-mailadres achter om op de hoogte te blijven van het Nieuw Talent Orkest, dan gebruikt de muziekvereniging TOGIDO Hekelingen dit alleen om u updates over het project te sturen, zoals informatieavonden en de start van de repetities.
+
+Grondslag voor deze persoonsgegevens is:
+* Uw toestemming
+
+Hiervoor vragen wij alleen uw e-mailadres. Het formulier wordt per e-mail naar de vereniging verstuurd. Het e-mailadres wordt niet op de website opgeslagen.
+
+Uw e-mailadres wordt bewaard tot het einde van het project, of korter als u zich eerder afmeldt. Afmelden kan altijd door een e-mail te sturen naar nto@togidohekelingen.nl.
+
 **Website togidohekelingen.nl**
 Wij respecteren je privacy als je onze website bezoekt en dragen zorg dat de persoonlijke informatie die je ons via
 de website verstrekt vertrouwelijk wordt behandeld. Dit gebeurt volledig in overeenstemming met de eisen van de

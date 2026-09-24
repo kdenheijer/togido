@@ -63,6 +63,8 @@ Al duizenden volwassenen ontdekten via het Nieuw Talent Orkest hoe leuk het is o
 
 Woon je in of in de omgeving van de gemeente Nissewaard en lijkt het je leuk om een instrument te leren bespelen, nieuwe mensen te ontmoeten en samen muziek te maken? Meld je dan aan voor Nieuw Talent Orkest Nissewaard!
 
+Nog niet zeker? [Laat je e-mailadres achter](/nieuwtalentorkest/updates/), dan houden we je op de hoogte.
+
 <form id="aanmelden" action="/nieuwtalentorkest/aanmelden.php" method="post">
   <div class="field"><label class="label" for="naam">Naam</label><div class="control"><input class="input" id="naam" name="naam" type="text" autocomplete="name" required></div></div>
   <div class="field"><label class="label" for="adres">Adres</label><div class="control"><input class="input" id="adres" name="adres" type="text" autocomplete="street-address" placeholder="Straat, huisnummer, postcode, plaats" required></div></div>
