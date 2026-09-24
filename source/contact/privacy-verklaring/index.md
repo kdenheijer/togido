@@ -128,27 +128,15 @@ schriftelijk op de hoogte stellen, door een e-mail te sturen naar secretariaat@t
 sturen naar Muziekvereniging TOGIDO Hekelingen, Meeldijk 9, 3209 AV Hekelingen.
 
 **Cookies**
-De website togidohekelingen.nl maakt gebruik van cookies. Cookies zijn kleine tekstbestanden die door een
-internetpagina op een pc, tablet of mobiele telefoon worden geplaatst. Deze cookies worden gebruikt om de website
-van de Muziekvereniging TOGIDO Hekelingen beter te laten functioneren en het web bezoek te monitoren, zodat de
-Muziekvereniging TOGIDO Hekelingen na kan gaan hoeveel mensen de website in een bepaalde periode hebben bezocht. De
-Muziekvereniging TOGIDO Hekelingen gebruikt deze data alleen geaggregeerd en kan deze niet herleiden tot een PC of
-individu. Hieronder vindt u een lijst van cookies die geplaatst worden door de Muziekvereniging TOGIDO Hekelingen
-website en hun functionaliteit.
+De website togidohekelingen.nl plaatst zelf geen cookies en maakt geen gebruik van analyse- of trackingdiensten. Wij houden dus niet bij wie de website bezoekt.
 
-Cookies kunnen je computer of de bestanden die op je computer staan niet beschadigen.
+Cookies zijn kleine tekstbestanden die door een internetpagina op een pc, tablet of mobiele telefoon worden geplaatst. Cookies kunnen je computer of de bestanden die op je computer staan niet beschadigen.
 
-**Standaardcookies**
-Deze worden alleen geplaatst indien u toestemming geeft.
-Naast onderstaande cookies zijn er nog andere onderdelen die een cookie kunnen opleveren. Wij maken gebruik van
-sociale plug-ins zoals Facebook. Sociale netwerksites gebruiken cookies om de inhoud van sociale plug-ins aan te
-passen of om te analyseren op welke sites hun gebruikers actief zijn en hoe hun diensten presteren.
+**YouTube**
+Op sommige pagina's staan video's van YouTube. Deze zijn ingesloten in de privacyvriendelijke modus van YouTube (youtube-nocookie.com). YouTube plaatst pas cookies als je een video afspeelt. Op het gebruik van YouTube is het privacybeleid van Google van toepassing.
 
 **Facebook**
-Indien u ingelogd bent bij Facebook, kan Facebook, via de Muziekvereniging TOGIDO Hekelingen, cookies op uw pc
-plaatsen die nodig zijn voor het liken van berichten en het updaten van uw status. Deze cookies worden alleen
-geplaatst als u tijdens een bezoek aan de Muziekvereniging TOGIDO Hekelingen website bent ingelogd op Facebook en
-hiervoor toestemming geeft.
+De website bevat een link naar onze Facebookpagina. Er worden geen Facebook-plug-ins op de website geladen. Pas als je op de link klikt, ga je naar Facebook en is het privacybeleid van Facebook van toepassing.
 
 **Cookies weigeren**
 Je kunt zelf beslissen of je cookies wilt accepteren of weigeren. Je kunt je browser zo instellen dat je op de
