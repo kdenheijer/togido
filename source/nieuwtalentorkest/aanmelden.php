@@ -48,8 +48,8 @@ $sent = mail(
     '=?UTF-8?B?' . base64_encode("Aanmelding NTO: $naam") . '?=',
     $body,
     [
-        'From' => $from,
-        'Reply-To' => $email,
+        // Geen Reply-To met het adres van de aanmelder: een freemail-Reply-To laat de spamscore van TransIP oplopen.
+        'From' => "TOGIDO website <$from>",
         'MIME-Version' => '1.0',
         'Content-Type' => 'text/plain; charset=utf-8',
         'Content-Transfer-Encoding' => '8bit',
