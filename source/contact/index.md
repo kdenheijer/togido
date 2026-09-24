@@ -22,7 +22,7 @@ Voor informatie over de vereniging of op- of aanmerkingen over deze site, kunt u
 Meeldijk 9
 3209 AV Hekelingen
 Tel: 0181-659662 / 06-43944013
-E-mail: [secretariaat@togidohekelingen.nl](email:secretariaat@togidohekelingen.nl) 
+E-mail: [secretariaat@togidohekelingen.nl](mailto:secretariaat@togidohekelingen.nl) 
 
 **Nico Sas – voorzitter**
-E-mail: [voorzitter@togidohekelingen.nl](email:voorzitter@togidohekelingen.nl)
+E-mail: [voorzitter@togidohekelingen.nl](mailto:voorzitter@togidohekelingen.nl)

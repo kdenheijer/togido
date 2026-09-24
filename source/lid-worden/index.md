@@ -20,5 +20,5 @@ Lessen worden voor de volgende instrumenten aangeboden:
 
 De muzieklessen zijn op dinsdagmiddag/avond in het Dorpshuis in Hekelingen. Ook duo-les is mogelijk.
 
-Meer informatie of gelijk een gratis proefles afspreken kan via 06-43944013 of [secretariaat@togidohekelingen.nl](email:secretariaat@togidohekelingen.nl)
+Meer informatie of gelijk een gratis proefles afspreken kan via 06-43944013 of [secretariaat@togidohekelingen.nl](mailto:secretariaat@togidohekelingen.nl)
 

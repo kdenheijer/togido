@@ -7,6 +7,6 @@ Om er voor te zorgen dat TOGIDO muziek kan blijven maken, is er veel nodig. Alle
  
 Daarnaast zijn ook mensen die komen luisteren naar onze muziek, ons ondersteunen en helpen bij allerlei zaken, belangrijk voor onze vereniging. Wilt u ons financieel ondersteunen, word dan donateur van TOGIDO. Dit kan al vanaf € 15,-. Wij houden u dan op de hoogte van onze optredens en u ontvangt een uitnodiging voor ons jaarconcert met gratis toegang voor twee personen.
  
-Om donateur te worden kunt u bellen met naar 0181-659662/06-43944013 of mailen naar: [secretariaat@togidohekelingen.nl](email:secretariaat@togidohekelingen.nl)
+Om donateur te worden kunt u bellen met naar 0181-659662/06-43944013 of mailen naar: [secretariaat@togidohekelingen.nl](mailto:secretariaat@togidohekelingen.nl)
 
 Volg ons ook op [Facebook](https://facebook.com/togidohekelingen)
