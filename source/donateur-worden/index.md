@@ -9,4 +9,4 @@ Daarnaast zijn ook mensen die komen luisteren naar onze muziek, ons ondersteunen
  
 Om donateur te worden kunt u bellen met naar 0181-659662/06-43944013 of mailen naar: [secretariaat@togidohekelingen.nl](mailto:secretariaat@togidohekelingen.nl)
 
-Volg ons ook op [Facebook](https://facebook.com/togidohekelingen)
+Volg ons ook op [Facebook](https://facebook.com/togidohekelingen) en [Instagram](https://www.instagram.com/togidohekelingen/)
