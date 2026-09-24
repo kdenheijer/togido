@@ -125,7 +125,7 @@ verwerkt ten behoeve van de administratie. De gegevens worden daarnaast gebruikt
 houden van  activiteiten van de Muziekvereniging TOGIDO Hekelingen. Indien u geen prijs meer stelt op deze
 informatie, kunt u zich hiervoor te allen tijde afmelden door de Muziekvereniging TOGIDO Hekelingen hiervan
 schriftelijk op de hoogte stellen, door een e-mail te sturen naar secretariaat@togidohekelingen.nl of een brief te
-sturen naar Muziekvereniging TOGIDO Hekelingen, Meeldijk 9 AV Hekelingen.
+sturen naar Muziekvereniging TOGIDO Hekelingen, Meeldijk 9, 3209 AV Hekelingen.
 
 **Cookies**
 De website togidohekelingen.nl maakt gebruik van cookies. Cookies zijn kleine tekstbestanden die door een
@@ -144,22 +144,11 @@ Naast onderstaande cookies zijn er nog andere onderdelen die een cookie kunnen o
 sociale plug-ins zoals Facebook. Sociale netwerksites gebruiken cookies om de inhoud van sociale plug-ins aan te
 passen of om te analyseren op welke sites hun gebruikers actief zijn en hoe hun diensten presteren.
 
-**Google Analytics**
-Google Analytics is een webanalyse-service die wordt aangeboden door Google Inc. Via deze cookies kan de
-Muziekvereniging TOGIDO Hekelingen inzage krijgen in het bezoek op de website. Deze dienst wordt door de
-muziekvereniging TOGIDO niet gebruikt. De Muziekvereniging TOGIDO Hekelingen kan niet zien wie (welke pc) haar
-website bezoekt. Google kan dit als aanbieder van de dienst wel.
-
 **Facebook**
 Indien u ingelogd bent bij Facebook, kan Facebook, via de Muziekvereniging TOGIDO Hekelingen, cookies op uw pc
 plaatsen die nodig zijn voor het liken van berichten en het updaten van uw status. Deze cookies worden alleen
 geplaatst als u tijdens een bezoek aan de Muziekvereniging TOGIDO Hekelingen website bent ingelogd op Facebook en
 hiervoor toestemming geeft.
-
-**Twitter**
-De Muziekvereniging TOGIDO Hekelingen plaatst Twitter cookies op uw pc om het (re)tweeten van artikelen mogelijk te
-maken. Deze worden alleen geplaatst als u tijdens een bezoek aan de Muziekvereniging TOGIDO Hekelingen website bent
-ingelogd op Twitter en hiervoor toestemming geeft.
 
 **Cookies weigeren**
 Je kunt zelf beslissen of je cookies wilt accepteren of weigeren. Je kunt je browser zo instellen dat je op de
