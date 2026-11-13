@@ -39,6 +39,8 @@ Repetitiedata:
 - Dinsdag 9 maart 2027
 - Dinsdag 16 maart 2027
 
+Eindconcert: zaterdag 20 maart 2027
+
 Tijd: 19.00 – 21.00 uur
 Pauze: 20.00 – 20.15 uur
 Locatie: Dorpshuis Hekelingen, Lede 13, Hekelingen
